@@ -1,0 +1,6 @@
+sdkdir=@sdkdir@
+
+Name: xorg-emulated
+Description: X.Org emulated input driver.
+Version: @PACKAGE_VERSION@
+Cflags: -I${sdkdir}
